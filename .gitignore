@@ -171,7 +171,6 @@ ocaml/yices_grammar.ml
 ocaml/yices_grammar.mli
 ocaml/yices_lexer.ml
 ocamlgraph/META
-ocamlgraph/Makefile
 ocamlgraph/configure.lineno
 ocamlgraph/src/dot_lexer.ml
 ocamlgraph/src/dot_parser.ml
